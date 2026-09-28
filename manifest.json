@@ -1,26 +1,26 @@
 {
-  "name": "حكايات على الورق",
-  "short_name": "حكايات",
-  "description": "مدونة حكايات على الورق للقصص والسرد القصصي",
+  "name": "Story Pen",
+  "short_name": "Hikayat",
+  "description": "Hikayat Stories Blog",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fbf7ee",
   "theme_color": "#fbf7ee",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_your_icon_path/s512/icon.png",
+      "src": "https://raw.githubusercontent.com/storypen0-code/pwa/main/icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_your_icon_path/s512/icon.png",
+      "src": "https://raw.githubusercontent.com/storypen0-code/pwa/main/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_your_icon_path/s512/icon.png",
+      "src": "https://raw.githubusercontent.com/storypen0-code/pwa/main/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
