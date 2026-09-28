@@ -18,12 +18,6 @@
       "sizes": "512x512",
       "type": "image/x-icon",
       "purpose": "any"
-    },
-    {
-      "src": "https://storypen0.blogspot.com/favicon.ico",
-      "sizes": "512x512",
-      "type": "image/x-icon",
-      "purpose": "maskable"
     }
   ]
 }
