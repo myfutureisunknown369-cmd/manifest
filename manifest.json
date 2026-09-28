@@ -8,16 +8,16 @@
   "theme_color": "#fbf7ee",
   "icons": [
     {
-      "src": "https://storypen0.blogspot.com/favicon.ico",
-      "sizes": "192x192",
-      "type": "image/x-icon",
+      "src": "https://cdn-icons-png.flaticon.com/512/3597/3597080.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://storypen0.blogspot.com/favicon.ico",
+      "src": "https://cdn-icons-png.flaticon.com/512/3597/3597080.png",
       "sizes": "512x512",
-      "type": "image/x-icon",
-      "purpose": "any"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
