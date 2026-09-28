@@ -1,0 +1,16 @@
+{
+  "name": "حكايات على الورق",
+  "short_name": "حكايات",
+  "description": "مدونة حكايات على الورق للقصص والسرد القصصي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5eedc",
+  "theme_color": "#3c2a21",
+  "icons": [
+    {
+      "src": "https://storypen0.blogspot.com/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
