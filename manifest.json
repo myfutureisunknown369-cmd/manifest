@@ -8,16 +8,16 @@
   "theme_color": "#3c2a21",
   "icons": [
     {
-      "src": "https://storypen0.blogspot.com/favicon.ico",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_sample_png_path/s512/icon.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "https://storypen0.blogspot.com/favicon.ico",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_sample_png_path/s512/icon.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
