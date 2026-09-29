@@ -2,24 +2,18 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "storypen0.blogspot",
+  "name": "حكايات على الورق",
   "orientation": "any",
   "scope": "/",
-  "short_name": "storypen0.blogspot",
+  "short_name": "حكايات",
   "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://storypen0.blogspot.com/favicon.ico",
-      "type": "image/x-icon",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "https://raw.githubusercontent.com/myfutureisunknown369-cmd/manifest/main/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
