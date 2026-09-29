@@ -2,10 +2,10 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "حكايات على الورق",
+  "name": "storypen0.blogspot",
   "orientation": "any",
   "scope": "/",
-  "short_name": "حكايات",
+  "short_name": "storypen0.blogspot",
   "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
@@ -21,7 +21,5 @@
       "is256x256": false,
       "is192x192": false
     }
-  ],
-  "id": "storypen.app",
-  "description": "حكايات على الورق - قصص وروايات ورسومات فنية"
+  ]
 }
